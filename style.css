@@ -1,0 +1,10 @@
+body{
+    background: url("img/floresta.jpg");   /* Incluído background pelo Dev */
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    color: #e60f0f
+} 
